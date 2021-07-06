@@ -1,0 +1,9 @@
+﻿  Form1.cpp
+D:\2 semestr Semakhin\Library\Library\Form1.h(1854,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Form2.cpp
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Создание кода...
+F:\VSStudio\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3032,5): warning MSB3088: не удалось прочитать файл состояния "Debug\Library.vcxproj.GenerateResource.cache". Не удалось найти сборку "Microsoft.Build.Tasks.v12.0, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+  Form1.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Library.vcxproj -> D:\2 semestr Semakhin\Library\Debug\Library.exe
